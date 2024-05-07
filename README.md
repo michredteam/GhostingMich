@@ -23,7 +23,7 @@ Example: NtCreateThreadEx
 
 [![ghosting.png](https://i.postimg.cc/sgy64Rfd/ghosting.png)](https://postimg.cc/YhnztZmb)
 
-[![malware-2.gif](https://i.postimg.cc/63GJTZyt/malware-2.gif)](https://postimg.cc/sQy0NvYN)
+[malware-2.gif](https://postimg.cc/sQy0NvYN)
 
 
 
