@@ -24,7 +24,9 @@ Example: NtCreateThreadEx
 [![ghosting.png](https://i.postimg.cc/sgy64Rfd/ghosting.png)](https://postimg.cc/YhnztZmb)
 
 # Usage:
+
 -r: the exe you want executed [Required]
+
 -f: path to a file that doesn't exist (parent directory must exist though) [Optional]
 
 [![malware.gif](https://i.postimg.cc/63GJTZyt/malware.gif)](https://postimg.cc/sQy0NvYN)
